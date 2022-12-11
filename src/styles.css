@@ -74,12 +74,13 @@ p{
     flex-wrap: wrap;
     flex-direction: row;
     justify-content: space-between;
+    align-content: space-between;
     margin: 10px;
 
 }
 .content{
     /* border: solid black 4px; */
-    margin: 20px;
+    margin: 50px;
     background-color:#b2cdd8;
     box-shadow: 0 8px 6px -6px black;
     height: 250px;
@@ -91,16 +92,7 @@ p{
     text-align: center;
 }
 
-.content:hover{
-    position: absolute;
-    right: 40%;
-    top: 50%;
 
-    height: 50%;
-    width: 50%;
-    
-
-}
 
 img{
     height: 100%;

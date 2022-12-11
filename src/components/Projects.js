@@ -10,30 +10,30 @@ import '../styles.css'
 
 function Projects(){
     return(
-        <div className="container">
+        <div className="container" id="project">
             <div className="content-container">
                 <div className="content">
-                    <h4><a>random text</a></h4>
+                    <h4><a href="https://onlycooks.herokuapp.com/">ONLYCOOKS</a></h4>
                     <img src={project1}/>
                 </div>
                 <div className="content">
-                    <h4><a>random text</a></h4>
+                    <h4><a href="https://monkeyd87.github.io/weatherapp/">Weather App</a></h4>
                     <img src={project2}/>
                 </div>
                 <div className="content">
-                    <h4><a>random text</a></h4>
+                    <h4><a>EMPLOYEE TRACKER</a></h4>
                     <img src={project3}/>
                 </div>
                 <div className="content">
-                    <h4><a>random text</a></h4>
+                    <h4><a>SQL API</a></h4>
                     <img src={project4}/>
                 </div>
                 <div className="content">
-                    <h4><a>random text</a></h4>
+                    <h4><a>onlycooks</a></h4>
                     <img src={project5}/>
                 </div>
                 <div className="content">
-                    <h4><a>random text</a></h4>
+                    <h4><a>COMING SOON</a></h4>
                     <img/>
                 </div>
 
