@@ -1,0 +1,109 @@
+*{
+    font-family: c;
+}
+
+nav{
+    background-color:#001233;
+    border-bottom: solid black 3px;
+    padding:10px ;
+    
+}
+p{
+    color:white;
+}
+.nav{
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+    padding: 8px;
+    list-style: none;
+    text-decoration: none;
+
+
+}
+
+
+.nav li a{
+    display: inline;
+    text-decoration: none;
+    padding: 10px;
+    color: inherit;
+    color: white;
+}
+
+.nav li a:hover{
+    background-color: #023E7D;
+    color: #b2cdd8;
+    font-size: 24px;
+    border-radius: 5%;
+    
+}
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    background-image: url('./images/low-poly-grid-haikei.png');
+    
+}
+.about{
+    width: 50%;
+    margin: 100px;
+    border-bottom: solid black 3px;
+}
+
+.photo{
+
+    height: 300px;
+   width: 350px;
+   margin: 8px; 
+   overflow:hidden;
+   float: right;
+
+}
+
+
+.me{
+    height: 100%;
+    width: 100%;
+}
+
+
+
+.content-container{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 10px;
+
+}
+.content{
+    /* border: solid black 4px; */
+    margin: 20px;
+    background-color:#b2cdd8;
+    box-shadow: 0 8px 6px -6px black;
+    height: 250px;
+    width: 350px;
+    border-radius: 5%;
+    text-align: center;
+} 
+.content a{
+    text-align: center;
+}
+
+.content:hover{
+    position: absolute;
+    right: 40%;
+    top: 50%;
+
+    height: 50%;
+    width: 50%;
+    
+
+}
+
+img{
+    height: 100%;
+    width: 100%;
+}
+
