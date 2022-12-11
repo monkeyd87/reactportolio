@@ -99,3 +99,21 @@ img{
     width: 100%;
 }
 
+.form-container{
+    background-color: #001233;
+    display: flex;
+    justify-content: center;
+}
+
+form{
+    background-color: #fb6107;
+    margin: 15px;
+    padding: 25px;
+    display:flex;
+    flex-direction: column;
+    align-content: space-between;
+    justify-content: center;
+    
+    height: 400px;
+
+}

@@ -2,6 +2,7 @@
 import Navbar from "./components/Nav"
 import About from "./components/About";
 import Projects from "./components/Projects";
+import Contact from "./components/contact"
 import "./styles.css"
 
 function App() {
@@ -10,6 +11,7 @@ function App() {
       <Navbar/>
       <About/>
       <Projects/>
+      <Contact/>  
     </div>
   );
 }
