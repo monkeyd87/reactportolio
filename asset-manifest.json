@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/reactportolio/static/css/main.3e401ec6.css",
-    "main.js": "/reactportolio/static/js/main.76102ec7.js",
+    "main.js": "/reactportolio/static/js/main.494eb884.js",
     "static/js/787.510e8dec.chunk.js": "/reactportolio/static/js/787.510e8dec.chunk.js",
     "static/media/project5.gif": "/reactportolio/static/media/project5.d0d34157f3f7c91404f5.gif",
     "static/media/project3.gif": "/reactportolio/static/media/project3.3e6196eeb54c88f63795.gif",
@@ -12,11 +12,11 @@
     "static/media/low-poly-grid-haikei.png": "/reactportolio/static/media/low-poly-grid-haikei.9fe1fd39933584a4876a.png",
     "index.html": "/reactportolio/index.html",
     "main.3e401ec6.css.map": "/reactportolio/static/css/main.3e401ec6.css.map",
-    "main.76102ec7.js.map": "/reactportolio/static/js/main.76102ec7.js.map",
+    "main.494eb884.js.map": "/reactportolio/static/js/main.494eb884.js.map",
     "787.510e8dec.chunk.js.map": "/reactportolio/static/js/787.510e8dec.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3e401ec6.css",
-    "static/js/main.76102ec7.js"
+    "static/js/main.494eb884.js"
   ]
 }
