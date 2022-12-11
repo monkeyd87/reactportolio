@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reactportolio/static/css/main.9a2224f1.css",
+    "main.js": "/reactportolio/static/js/main.81226daa.js",
+    "static/js/787.510e8dec.chunk.js": "/reactportolio/static/js/787.510e8dec.chunk.js",
+    "static/media/project5.gif": "/reactportolio/static/media/project5.d0d34157f3f7c91404f5.gif",
+    "static/media/project3.gif": "/reactportolio/static/media/project3.3e6196eeb54c88f63795.gif",
+    "static/media/project4.gif": "/reactportolio/static/media/project4.7f90af9bd27365dfdd6d.gif",
+    "static/media/project2.png": "/reactportolio/static/media/project2.ea10dea4eae6aae298ff.png",
+    "static/media/project1.png": "/reactportolio/static/media/project1.f12e03bcde66f2443687.png",
+    "static/media/MB1565_ProductImage.png": "/reactportolio/static/media/MB1565_ProductImage.293a44b5e456da4dc746.png",
+    "static/media/low-poly-grid-haikei.png": "/reactportolio/static/media/low-poly-grid-haikei.9fe1fd39933584a4876a.png",
+    "index.html": "/reactportolio/index.html",
+    "main.9a2224f1.css.map": "/reactportolio/static/css/main.9a2224f1.css.map",
+    "main.81226daa.js.map": "/reactportolio/static/js/main.81226daa.js.map",
+    "787.510e8dec.chunk.js.map": "/reactportolio/static/js/787.510e8dec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a2224f1.css",
+    "static/js/main.81226daa.js"
+  ]
+}
