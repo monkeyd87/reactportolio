@@ -10,7 +10,7 @@ import '../styles.css'
 
 function Projects(){
     return(
-        <div className="container" id="project">
+        <div className="container" id="projects">
             <div className="content-container">
                 <div className="content">
                     <h4><a href="https://onlycooks.herokuapp.com/">ONLYCOOKS</a></h4>
